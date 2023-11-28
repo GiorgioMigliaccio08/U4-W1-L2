@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3eef4c1-799d-47dd-b548-dd4d5ad8e89a" name="Changes" comment="Quarto Commit">
-      <change afterPath="$PROJECT_DIR$/src/Esercizio3/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c3eef4c1-799d-47dd-b548-dd4d5ad8e89a" name="Changes" comment="Quinto Commit">
+      <change afterPath="$PROJECT_DIR$/src/Esercizio4/Main4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701183417713</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Quinto Commit">
+      <option name="closed" value="true" />
+      <created>1701183830982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701183830982</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,7 +115,8 @@
     <MESSAGE value="Secondo Commit" />
     <MESSAGE value="Terzo Commit" />
     <MESSAGE value="Quarto Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quarto Commit" />
+    <MESSAGE value="Quinto Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quinto Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
